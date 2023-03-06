@@ -11,4 +11,4 @@ def test_2():
 
 
 def test_3():
-    assert 'fizz' not in 'fizzbuzz'
+    assert 'Fizz' not in 'FizzBuzz'
